@@ -1,1 +1,5 @@
-test aja
+biodata
+
+Nama : Monica
+Nim : 1715121584
+Kuliah : universitas IBBI
